@@ -7,3 +7,4 @@ def SayHello():
 
 if __name__ == '__main__':
         SayHello to freshers ()
+        All the best for your future at Deloitte
